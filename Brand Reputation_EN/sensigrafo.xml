@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sensigrafo id="" resid="sens_en_15.0.0_standard" path="dic" hash="">
+<sensigrafo id="" resid="sens_en_16.2.0_standard_stp" path="dic" hash="" shared_memory="false" nlcore="">
     <ambient>
         <a>
             <virtual level="2" mono="0" reduced="0"/>
