@@ -138,7 +138,7 @@ SCOPE SENTENCE
     //It doesn't seem to be very durable nor reliable
     DOMAIN(01.04:LOW)
     {
-        SYNCON(193096)//@SYN: #193096# [not]
+        SYNCON(194744)//@SYN: #193096# [not]
         <:4>
         SYNCON(191577)//@SYN: #191577# [very]
         <:4>
