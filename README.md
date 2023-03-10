@@ -1,3 +1,5 @@
+## Note: Work in Progress, upgrading the version of knowledge graph of https://github.com/therealexpertai/studio-samples to 16.2.1
+
 # Studio Sample Projects
 
 This repository contains a number of *sample projects* for <a href="https://www.expert.ai/nl-suite/expert-ai-studio/"><b>expert.ai Studio</b></a>. 
@@ -12,7 +14,6 @@ This repository contains the following projects:
 - Self-training PJ, in English
 
 Each of the projects includes a description of its content and features as a README file in its `rules` folder.
-
 
 ## Brand Reputation
 
@@ -36,9 +37,9 @@ This module is meant to provide you with a starting point to demonstrate one way
 This project is a **text mining model** prototype of medium complexity that's meant for processing **finance-centered press releases** and collect buyer-seller relationships, acquisition money, revenues incomes, net loss, net incomes, the press release publisher personal info and much more. 
 
 For this prototype, we chose the Symbolic approach and expert.ai Studio to benefit from major accuracy and tweakability - the model has an additional **javascript post-processing** stage to improve the overall accuracy of the relationships.
-	
+
 Documents chosen for this project are short to allow for better exploration of the extraction results. You are free to analyze longer documents and further develop the model to broaden its capabilities. This module is only a starting point, you can customize it by adding your own taxonomies and/or expanding existing extractions.
-	
+
 ## Self-training PJ
 
 *A training project as an overview of the main features*
@@ -54,14 +55,15 @@ Training files will cover both text classification and data mining algoriothms a
 To learn the basics of the Symbolic approach in expert.ai, you only need to learn and practice using the files below:
 
 **Text Classification**
+
 - `crules_introduction.cr`
 - `crules_training.cr`
 - `crules_training_hands_on.cr`
-			
+
 **Data Mining**
+
 - `erules_introduction.cr`
 - `erules_training.cr`
 - `erules_training_hands_on.cr`
-			
-You can also access to advanced topics and functionalities directly from the `main.cr` file in the `rules` folder of the project sources.
 
+You can also access to advanced topics and functionalities directly from the `main.cr` file in the `rules` folder of the project sources.
