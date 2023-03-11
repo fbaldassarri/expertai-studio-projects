@@ -6,7 +6,7 @@ SCOPE SENTENCE IN SEGMENT(TITLE)
         !ANCESTOR(37392:99,100014799:99,192145:99)+TYPE(NPR)-SYNCON(100000248) //@SYN: #37392# [electronics company] //@SYN: #100014799# [Lenovo] //@SYN: #192145# [computer company]
         >>
         @PRODUCT[ANCESTOR(102424752,100011019,100000068,18178)+TYPE(NPR)] //@SYN: #102424752# [products] //@SYN: #100011019# [machine] //@SYN: #100000068# [computer] //@SYN: #18178# [product]
-         >>
+        >>
         !PATTERN("[0-9]+")
    }
 
@@ -16,7 +16,7 @@ SCOPE SENTENCE IN SEGMENT(TITLE)
         !ANCESTOR(37392:99,100014799:99,192145:99)+TYPE(NPR)-SYNCON(100000248) //@SYN: #37392# [electronics company] //@SYN: #100014799# [Lenovo] //@SYN: #192145# [computer company]
         >>
         @PRODUCT[ANCESTOR(102424752,100011019,100000068,18178)+TYPE(NPR)]|[#1] //@SYN: #102424752# [products] //@SYN: #100011019# [machine] //@SYN: #100000068# [computer] //@SYN: #18178# [product]
-         >>
+        >>
         @PRODUCT[PATTERN("[0-9]+")]|[#2]
    }
 }
