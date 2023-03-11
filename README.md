@@ -1,4 +1,14 @@
-## Note: Work in Progress, upgrading the version of knowledge graph of https://github.com/therealexpertai/studio-samples to 16.2.1
+## Note: Work in Progress, upgrading the of https://github.com/therealexpertai/studio-samples to version 16.2.1
+
+- To fix:
+  
+  - Brand Reputation_EN: 
+    
+    - document8.txt missing extraction of "Seagate Superpad 619" in segment TITLE, Brand_and_Product_ETL.cr needs to be review
+    
+    - document10.txt missing extraction of "Seagate Highbook-13 PC" in segment TITLE, Brand_and_Product_ETL.cr needs to be review
+
+    
 
 # Studio Sample Projects
 
