@@ -56,7 +56,7 @@ SCOPE SENTENCE
     {
         @PRODUCT[ANCESTOR(102424752,100011019,100000068,18178) + TYPE(NPR)]//@SYN: #102424752# [products] //@SYN: #100011019# [machine] //@SYN: #100000068# [computer] //@SYN: #18178# [product]
         >>
-        ANCESTOR(102424752,100011019,100000068,18178) + TYPE(NOU)
+        ANCESTOR(102424752,100011019,100000068,18178) + TYPE(NOU) //@SYN: #102424752# [products] //@SYN: #100011019# [machine] //@SYN: #100000068# [computer] //@SYN: #18178# [product]
     }
 
     //Seagate QWERTY4 laptop PC
